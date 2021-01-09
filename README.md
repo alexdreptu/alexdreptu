@@ -39,6 +39,7 @@
     <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/610584" target="_blank">
       <img src="badges/qwiklabs/aws/serverless_web_apps_using_amazon_dynamodb.svg" width="200">
     </a>
+    &emsp;
     <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/614732" target="_blank">
       <img src="badges/qwiklabs/aws/advanced_ops_using_amazon_redshift.svg" width="200">
     </a>
