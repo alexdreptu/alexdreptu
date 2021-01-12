@@ -28,6 +28,10 @@
       <img src="badges/qwiklabs/aws/solutions_architect_associate.png" width="400">
     </a>
     &emsp;
+    <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/616793 " target="_blank">
+      <img src="badges/qwiklabs/aws/solutions_architect_professional.png" width="400">
+    </a>
+    &emsp;
     <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/612148" target="_blank">
       <img src="badges/qwiklabs/aws/sysops_administrator_associate.png" width="400">
     </a>
@@ -40,10 +44,17 @@
       <img src="badges/qwiklabs/aws/serverless_web_apps_using_amazon_dynamodb.png" width="400">
     </a>
     &emsp;
+    <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/617322 " target="_blank">
+      <img src="badges/qwiklabs/aws/websites_and_web_apps.png" width="400">
+    </a>
+    &emsp;
     <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/614732" target="_blank">
       <img src="badges/qwiklabs/aws/advanced_operations_using_amazon_redshift.png" width="400">
     </a>
     &emsp;
+    <a href="https://www.qwiklabs.com/public_profiles/2d04074c-e6d8-4daa-9426-8b03bf930859/badges/617401" target="_blank">
+      <img src="badges/qwiklabs/aws/digital_media.png" width="400">
+    </a>
   </p>
 </details>
 
